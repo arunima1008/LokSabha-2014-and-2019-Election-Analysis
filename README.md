@@ -1,4 +1,5 @@
-#Election Data Analysis: Insights from 2014 and 2019
+Election Data Analysis: Insights from 2014 and 2019
+
 This repository contains the code and analysis for a project presented to AtliQ Media. The project aims to provide unbiased insights from the 2014 and 2019 Lok Sabha elections in India, focusing on less explored themes like voter turnout percentage. This analysis was conducted as part of the Resume Project challenge 11 of Code Basics.
 
 Project Overview
@@ -19,20 +20,14 @@ Party Performance Comparison: Comparing the vote shares of INC and BJP in 2014 a
 Change in Party Preferences: Identifying constituencies where the winning party changed between 2014 and 2019.
 Top Constituencies by Vote Share Gain: Highlighting constituencies where INC and BJP gained significant vote shares.
 NOTA Analysis: Determining which constituency voted the most for NOTA.
-File Structure
-codebasics1.ipynb: The Jupyter Notebook containing all the code and visualizations for the analysis.
-Getting Started
+
 Prerequisites
 To run the code in this repository, you need the following:
 
 Python 3.x
 Jupyter Notebook
 Required Python libraries: pandas, matplotlib
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/election-data-analysis.git
-Navigate to the project directory:
-cd election-data-analysis
+
 Install the required libraries:
 pip install pandas matplotlib
 Usage
